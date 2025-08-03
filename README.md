@@ -1,5 +1,11 @@
 # ⚽ MatchWatch
 
+![Java](https://img.shields.io/badge/Java-21-blue)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.5.4-brightgreen)
+![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-blue)
+![License: View-Only](https://img.shields.io/badge/License-View--Only-lightgrey)
+
+
 **MatchWatch** is a full-stack football experience platform featuring live match data, AI-powered insights, community interaction, and fantasy tools — built to showcase real-world system design and backend modularity while improving my viewing experience when watching my favorite EPL Team.
 
 ---
@@ -114,7 +120,7 @@ Built to:
 
 ## 📜 License
 
-No license yet — this code is view-only for now.
+This project is licensed for viewing and educational purposes only. Please contact me for usage inquiries.
 
 ---
 

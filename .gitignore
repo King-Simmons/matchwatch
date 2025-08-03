@@ -1,0 +1,13 @@
+# Java
+target/
+*.class
+
+# Gradle
+.gradle/
+build/
+
+# Node/Frontend (future)
+node_modules/
+
+# Environment
+*.env
