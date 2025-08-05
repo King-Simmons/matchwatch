@@ -5,6 +5,11 @@
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/matchwatch-backend" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/matchwatch-backend" />
+          </set>
+        </option>
       </GradleProjectSettings>
     </option>
   </component>

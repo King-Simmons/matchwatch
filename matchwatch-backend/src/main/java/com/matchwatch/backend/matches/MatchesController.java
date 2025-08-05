@@ -18,7 +18,7 @@ public class MatchesController {
   /**
    * @return the next upcoming match
    */
-  @GetMapping
+  @GetMapping("/next")
   public MatchDto getNextMatch() {
     return matchesService.getNextMatch();
   }
